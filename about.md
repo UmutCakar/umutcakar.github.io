@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Test me
-Test
+I will update as soon as possible.
+Thanks.
 
 ### Contact me
 
 [nuriumut.cakar@hotmail.com](mailto:nuriumut.cakar@hotmail.com)
+
++90 537 670 89 87
