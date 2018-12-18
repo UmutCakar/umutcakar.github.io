@@ -10,7 +10,7 @@ Selamlar, Ben Umut ÇAKAR .NET developerım. Adapazarı/Sakarya’da yaşıyorum
 
 Araştırmayı ve öğrenmeyi seviyorum. 
 
-Öğrenmek için geliştirmiş olduğum çalışmalarıma [Github Adresim](https://github.com/barryclark/jekyll-now)'den ulaşabilirsiniz.
+Öğrenmek için geliştirmiş olduğum çalışmalarıma [Github Adresim](https://github.com/UmutCakar)'den ulaşabilirsiniz.
 
 
 
