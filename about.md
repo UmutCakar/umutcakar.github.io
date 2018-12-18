@@ -1,13 +1,20 @@
 ---
 layout: page
-title: About
+title: Hakkımda
 permalink: /about/
 ---
 
-I will update as soon as possible.
-Thanks.
+Selamlar, Ben Umut ÇAKAR .NET developerım. Adapazarı/Sakarya’da yaşıyorum.
 
-### Contact me
+.Net teknolojileri ve özellikle web uygulamaları geliştirmekteyim.
+
+Araştırmayı ve öğrenmeyi seviyorum. 
+
+Öğrenmek için geliştirmiş olduğum çalışmalarıma [Github Adresim](https://github.com/barryclark/jekyll-now)'den ulaşabilirsiniz.
+
+
+
+### İletişim Bilgilerim
 
 [nuriumut.cakar@hotmail.com](mailto:nuriumut.cakar@hotmail.com)
 
