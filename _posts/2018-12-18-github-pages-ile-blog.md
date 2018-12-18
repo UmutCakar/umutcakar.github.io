@@ -1,9 +1,10 @@
 ---
 layout: post
-title: I'm starting to write what I learned.
+title: Github Pages ve Jekyll ile blog kurmak.
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Merhabalar, blog oluşturmaya ve öğrendiklerimi burada paylaşmaya karar verdim.
+İlk olarak Github Pages ve Jekyll ile blog nasıl oluşturulur göstermek istiyorum.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
