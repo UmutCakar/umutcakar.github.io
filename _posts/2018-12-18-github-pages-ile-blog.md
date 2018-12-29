@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Github Pages ve Jekyll ile Blog Nasıl Oluşturulur ?
+title: Github Pages ve Jekyll ile Blog Oluşturmak.
 ---
+
 
 Merhabalar, blog oluşturmaya ve öğrendiklerimi burada paylaşmaya karar verdim.
 İlk olarak Github Pages ve Jekyll ile blog nasıl oluşturulur göstermek istiyorum.
@@ -32,7 +33,7 @@ kendi (Repositories) çalışma alanıma (Fork) kopyaladım.
 
 ![_config.yml]({{ site.baseurl }}/images/blog-1-github-fork.png)
 
-Kendi çalışma alanımıza kopyalamış bulunmaktayız. Düzenlemelere başlayabiliriz. :)
+Kendi çalışma alanımıza kopyalamış bulunmaktayız. Düzenlemelere başlayabiliriz.
 
 Settings bölümün'den Repository name kısmını umutcakar.github.io olarak değiştirdim.
 Daha sonra alt taraf da bulunan Github Pages kısmın'dan Source altında ki alanı 
