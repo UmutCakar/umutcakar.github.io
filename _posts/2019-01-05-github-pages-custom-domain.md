@@ -15,7 +15,7 @@ umutcakar.github.io oluşturmuş olduğum projemin içerisine giriyorum.
 Daha sonra Settings içerisinde GitHub Pages altında Custom Domain yazan yere
 alan adımı yazıp kaydediyorum.
 
-![_config.yml]({{ site.baseurl }}/images/custom-domain-1.png)
+![_config.yml]({{ site.baseurl }}/images/custom-domain.png)
 
 ### Adım 2 - CNAME düzenliyoruz.
 Projemin içerisinde bulunan CNAME içerisine alan adımı yazıp kaydediyorum.
